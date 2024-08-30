@@ -1,0 +1,6 @@
+mysql-connector-python
+numpy
+matplotlib
+python_dotenv
+PyQt5
+opencv-python == 4.10.0.84
